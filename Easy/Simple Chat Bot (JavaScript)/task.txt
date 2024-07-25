@@ -1,0 +1,87 @@
+Task 1:
+
+Objective
+
+For the first stage, you will write a bot who displays a greeting, its name, and the year it was created. First impressions count!
+
+Your program should print the following lines:
+
+Hello! My name is {bot_name}.
+I was created in {birth_year}.
+
+Instead of {bot_name}, print any name you choose and replace {birth_year} with the current year (four digits). You don't need to take any input in this stage.
+Example
+
+Output:
+
+Hello! My name is Aid.
+I was created in 2023.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Task 2:
+
+Objective
+
+In this stage, you will introduce yourself to the bot so that it can greet you by your name.
+
+Your program should print the following lines:
+
+Hello! My name is Aid.
+I was created in 2023.
+Please, remind me your name.
+What a great name you have, {your_name}!
+
+You may change the name and the creation year of your bot if you want.
+
+Instead of {your_name}, the bot must print your name entered from the standard input.
+Example
+
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+
+Example 1: a dialogue with the bot
+
+Hello! My name is Aid.
+I was created in 2023.
+Please, remind me your name.
+> Max
+What a great name you have, Max!
+
+---------------------------------------------------------------------------------------------------------------------
+
+Task 3:
+
+Objective
+
+In this stage, you will introduce yourself to the bot. It will greet you by your name and then try to guess your age using arithmetic operations.
+
+Your program should print the following lines:
+
+Hello! My name is Aid.
+I was created in 2023.
+Please, remind me your name.
+What a great name you have, Max!
+Let me guess your age.
+Enter remainders of dividing your age by 3, 5 and 7.
+Your age is {your_age}; that's a good time to start programming!
+
+Read three numbers from the standard input. Assume that all the numbers will be given on separate lines.
+
+Instead of {your_age}, the bot will print the age determined according to the special formula discussed above.
+Example
+
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+
+Example 1: a dialogue with the bot
+
+Hello! My name is Aid.
+I was created in 2023.
+Please, remind me your name.
+> Max
+What a great name you have, Max!
+Let me guess your age.
+Enter remainders of dividing your age by 3, 5 and 7.
+> 1
+> 2
+> 1
+Your age is 22; that's a good time to start programming!
