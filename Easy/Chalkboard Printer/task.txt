@@ -1,0 +1,91 @@
+Task 1:
+
+Objectives
+
+You should:
+
+    Declare a variable named name and assign the value Bart to it.
+    Declare a variable named surname and assign the value Simpson to it.
+    Declare a variable named message and assign the value I will not skateboard in the halls. to it.
+    Log this message to the console using the variables above five times: This is [name] [surname] and [message]
+
+Examples
+
+Example 1:
+
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Task 2:
+
+Objectives
+
+You should:
+
+    Take the input for the name variable.
+    Take the input for the surname variable.
+    Take the input for the message variable.
+    Log this message to the console using the variables above five times: This is [name] [surname] and [message]
+
+Examples
+
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+
+Example 1:
+
+Enter name: > Bart
+Enter surname: > Simpson
+Enter message: > I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Task 3:
+
+Objectives
+
+You should:
+
+    Use the variables from the previous stages.
+    Take the input for the number of repeats.
+    Log this message to the console using the number of repeats times: This is [name] [surname] and [message]
+
+Examples
+
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+
+Example 1:
+
+Enter name: > Bart
+Enter surname: > Simpson
+Enter message: > I will not skateboard in the halls.
+Enter number of repeats: > 20
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
+This is Bart Simpson and I will not skateboard in the halls.
