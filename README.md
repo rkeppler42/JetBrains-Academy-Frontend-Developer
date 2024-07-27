@@ -1,5 +1,5 @@
 # JetBrains-Academy-Frontend-Developer 💻
- All the projects I did for the Frontend Developer track of JetBrains Academy!
+ All the projects I did for the "Frontend Developer" track of JetBrains Academy!
 
 ## Status
 23/196 completed topics\
