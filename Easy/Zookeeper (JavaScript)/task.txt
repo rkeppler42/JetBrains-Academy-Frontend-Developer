@@ -1,0 +1,151 @@
+Task 1:
+
+Objectives
+
+To begin with, you will develop a simple printer. Your program should display the text from the output example.
+Example
+
+The output:
+
+I love animals!
+Let's check on the animals...
+The deer looks fine.
+The bat looks happy.
+The lion looks healthy.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Task 2:
+
+Objectives
+
+For the second stage, you will need to develop an animal printer. Your program should display the animal identified in the code field.
+Example
+
+Your output should contain the following ASCII image:
+
+Switching on the camera in the camel habitat...
+ ___.-''''-.
+/___  @    |
+',,,,.     |         _.'''''''._
+     '     |        /           \
+     |     \    _.-'             \
+     |      '.-'                  '-.
+     |                               ',
+     |                                '',
+      ',,-,                           ':;
+           ',,| ;,,                 ,' ;;
+              ! ; !'',,,',',,,,'!  ;   ;:
+             : ;  ! !       ! ! ;  ;   :;
+             ; ;   ! !      ! !  ; ;   ;,
+            ; ;    ! !     ! !   ; ;
+            ; ;    ! !    ! !     ; ;
+           ;,,      !,!   !,!     ;,;
+           /_I      L_I   L_I     /_I
+Look at that! Our little camel is sunbathing!
+
+---------------------------------------------------------------------------------------------------------------------
+
+Task 3:
+
+In this stage your program should:
+
+    Ask for the number of the desired habitat using the following phrase: Please enter the number of the habitat you would like to view:
+
+    Use the input number as an index of your habitats to print its content.
+
+    End with the following phrase:
+
+---
+You've reached the end of the program. To check another habitat, please restart the watcher.
+
+Examples
+
+The greater-than symbol followed by a space (> ) represents the user input. Notice that it's not part of the input.
+
+Example 1
+
+Please enter the number of the habitat you would like to view: > 5
+
+Switching on the camera in the rabbit habitat...
+         ,
+        /|      __
+       / |   ,-~ /
+      Y :|  //  /
+      | jj /( .^
+      >-"~"-v"
+     /       Y
+    jo  o    |
+   ( ~T~     j
+    >._-' _./
+   /   "~"  |
+  Y     _,  |
+ /| ;-"~ _  l
+/ l/ ,-"~    \
+\//\/      .- \
+ Y        /    Y
+ l       I     !
+ ]\      _\    /"\
+(" ~----( ~   Y.  )
+It looks like we will soon have more rabbits!
+---
+You've reached the end of the program. To check another habitat, please restart the watcher.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Task 4:
+
+Objectives
+
+Your tasks at this point:
+
+    Your program should repeat the behavior from the previous stage, but now in a loop.
+
+    Do not forget to include an exit opportunity: inputting exit should end the program.
+
+    When the program is done running, it should print: See you later!
+
+Examples
+
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+
+The final version of the program should run like this:
+
+Example 1
+
+Please enter the number of the habitat you would like to view: > 3
+
+Switching on the camera in the goose habitat...
+
+                                    _
+                                ,-"" "".
+                              ,'  ____  `.
+                            ,'  ,'    `.  `._
+   (`.         _..--.._   ,'  ,'        \    \
+  (`-.\    .-""        ""'   /          (  d _b
+ (`._  `-"" ,._             (            `-(   \
+ <_  `     (  <`<            \              `-._\
+  <`-       (__< <           :
+   (__        (_<_<          ;
+    `------------------------------------------
+The goose is staring intently at you... Maybe it's time to change the channel?
+Please enter the number of the habitat you would like to view: > 1
+
+Switching on the camera in the lion habitat...
+                                               ,w.
+                                             ,YWMMw  ,M  ,
+                        _.---.._   __..---._.'MMMMMw,wMWmW,
+                   _.-""        '''           YP"WMMMMMMMMMb,
+                .-' __.'                   .'     MMMMW^WMMMM;
+    _,        .'.-'"; `,       /`     .--""      :MMM[==MWMW^;
+ ,mM^"     ,-'.'   /   ;      ;      /   ,       MMMMb_wMW"  @\
+,MM:.    .'.-'   .'     ;     `\    ;     `,     MMMMMMMW `"=./`-,
+WMMm__,-'.'     /      _.\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
+"^MP__.-'    ,-' _.--""   `-,   ;       \  ; ;MMMMMMMMMMW^``; __|
+           /   .'            ; ;         )  )`{  \ `"^W^`,   \  :
+          /  .'             /  (       .'  /     Ww._     `.  `"
+         /  Y,              `,  `-,=,_{   ;      MMMP`""-,  `-._.-,
+        (--, )                `,_ / `) \/"")      ^"      `-, -;"\:
+The lion is roaring!
+Please enter the number of the habitat you would like to view: > exit
+See you later!
