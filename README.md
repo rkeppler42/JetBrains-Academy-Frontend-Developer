@@ -5,15 +5,16 @@
  The graduate projects will be marked as so.
 
 ## Status
-25/196 completed topics (12.76%)\
-24/107 applied core topics (22.43%)
+⏳25/196 completed topics (12.76%)\
+⏳24/107 applied core topics (22.43%)\
+⏳0 completed graduate projects
 
 ## Projects:
-### Easy
+### ✅Easy
 - [My First Project (JavaScript)](Easy/My%20First%20Project%20%28JavaScript%29): **completed**;
 - [Simple Chat Bot (JavaScript)](Easy/Simple%20Chat%20Bot%20%28JavaScript%29): **completed**;
 - [Chalkboard Printer](Easy/Chalkboard%20Printer): **completed**;
 - [Zookeeper (Javascript)](Easy/Zookeeper%20%28JavaScript%29): **completed**;
 
-### Medium
+### ⏳Medium
 - Coffee Machine (Javascript): _not started_;
