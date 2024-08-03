@@ -1,0 +1,43 @@
+Task 1:
+
+Objective
+
+The first version of the program just makes you a coffee. It should print to the standard output what it is doing as it makes the drink.
+Example
+
+Take a look at the sample output below and print all the following lines.
+
+Output:
+
+Starting to make a coffee
+Grinding coffee beans
+Boiling water
+Mixing boiled water with crushed coffee beans
+Pouring coffee into the cup
+Pouring some milk into the cup
+Coffee is ready!
+
+---------------------------------------------------------------------------------------------------------------------
+
+Task 2:
+
+Objectives
+
+Let's break the task into several steps:
+
+    First, read the numbers of coffee drinks from the input.
+    Figure out how much of each ingredient the machine will need. Note that one cup of coffee made on this coffee machine contains 200 ml of water, 50 ml of milk, and 15 g of coffee beans.
+    Output the required ingredient amounts back to the user.
+
+Examples
+
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+
+Example 1: a dialogue with a user might look like this
+
+Write how many cups of coffee you will need:
+> 25
+For 25 cups of coffee you will need:
+5000 ml of water
+1250 ml of milk
+375 g of coffee beans
