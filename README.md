@@ -5,8 +5,8 @@
  The graduate projects will be marked as so.
 
 ## Status
-⏳25/196 completed topics (12.76%)\
-⏳24/107 applied core topics (22.43%)\
+⏳28/196 completed topics (14.29%)\
+⏳25/107 applied core topics (23.36%)\
 ⏳0 completed graduate projects
 
 ## Projects:
